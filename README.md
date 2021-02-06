@@ -34,6 +34,7 @@ webrtc_server_url: 'http://127.0.0.1:8000/'
 stream_uri : URI or label name of your original device video stream(RTSP,RTP). For label see webrtc-streamer documentation
 webrtc_server_url : url and port of your webrtc-streamer instance
 
+Please note this is only a visualisation card, no entity can be created and it is not streamable anywhere else than in a webrtc compatible browser, but it's still very nice for "realtime" PTZ positioning.
 
 webrtc-streamer have crashed and over consummed my laptop ressources while stress testing it, but it seems to be best solution for my personnal case and play very nice with my cheap chinese cam.
 Should diserve an add-on...
